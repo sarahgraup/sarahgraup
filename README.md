@@ -10,7 +10,6 @@
 I’m a **full-stack software engineer** focused on building **AI-powered, user-first applications** that bridge design and intelligent automation.  
 With a background in **Cognitive Science (UCLA)** and hands-on experience in **TypeScript, React, FastAPI, and OpenAI APIs**, I specialize in turning complex problems into simple, impactful products.
 
-Recently, I’ve developed **cross-platform applications** with **React, React Native, and Python backends**, integrating AI models, real-time feedback, and scalable architecture.  
 
 Recent projects include:
 - 🎤 **PitchScoop** — real-time AI pitch coach (🏆 *First Place for innovation & usability*)  
